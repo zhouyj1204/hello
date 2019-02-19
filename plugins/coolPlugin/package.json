@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "d:\\project_self\\CoolPlugin",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "d:\\project_self\\CoolPlugin",
+        "spec": "d:\\project_self\\CoolPlugin",
+        "type": "directory"
+      },
+      "D:\\project_self\\hello"
+    ]
+  ],
+  "_from": "..\\CoolPlugin",
+  "_id": "coolPlugin@0.0.1",
+  "_inCache": true,
+  "_location": "/coolPlugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "d:\\project_self\\CoolPlugin",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "d:\\project_self\\CoolPlugin",
+    "spec": "d:\\project_self\\CoolPlugin",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:..\\CoolPlugin",
+  "_shasum": "daa3c4420f9210ed9508985cace956a4e55df33e",
+  "_shrinkwrap": null,
+  "_spec": "d:\\project_self\\CoolPlugin",
+  "_where": "D:\\project_self\\hello",
+  "author": "",
+  "cordova": {
+    "id": "coolPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "test",
+  "devDependencies": {},
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "coolPlugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "0.0.1"
+}
